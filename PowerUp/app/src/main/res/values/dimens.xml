@@ -60,12 +60,12 @@
     <dimen name="redo_button_height">30dp</dimen>
     <dimen name="land_map_click_width">150dp</dimen>
     <dimen name="land_map_click_height">50dp</dimen>
-    <dimen name="land_house_margin_left">40dp</dimen>
-    <dimen name="land_house_margin_top">20dp</dimen>
-    <dimen name="land_hospital_margin_left">400dp</dimen>
-    <dimen name="land_hospital_margin_top">20dp</dimen>
-    <dimen name="land_school_margin_left">400dp</dimen>
-    <dimen name="land_school_margin_top">200dp</dimen>
-    <dimen name="land_boyfriend_margin_left">60dp</dimen>
-    <dimen name="land_boyfriend_margin_top">200dp</dimen>
+    <dimen name="land_house_button_margin_left">40dp</dimen>
+    <dimen name="land_house_button_margin_top">20dp</dimen>
+    <dimen name="land_hospital_button_margin_left">400dp</dimen>
+    <dimen name="land_hospital_button_margin_top">20dp</dimen>
+    <dimen name="land_school_button_margin_left">400dp</dimen>
+    <dimen name="land_school_button_margin_top">200dp</dimen>
+    <dimen name="land_boyfriend_button_margin_left">60dp</dimen>
+    <dimen name="land_boyfriend_button_margin_top">200dp</dimen>
 </resources>

@@ -2,38 +2,32 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/map"
-    >
+    android:background="@drawable/map">
 
     <Button
         android:id="@id/HouseButton"
         android:layout_width="@dimen/land_map_click_width"
         android:layout_height="@dimen/land_map_click_height"
-        android:layout_marginLeft="@dimen/land_house_margin_left"
-        android:layout_marginStart="@dimen/land_house_margin_left"
-        android:layout_marginTop="@dimen/land_house_margin_top"
+        android:layout_marginLeft="@dimen/land_house_button_margin_left"
+        android:layout_marginTop="@dimen/land_house_button_margin_top"
         android:alpha="0.00"
-        android:text="@string/house"
-        />
+        android:text="@string/house" />
 
     <Button
         android:id="@id/HospitalButton"
         android:layout_width="@dimen/land_map_click_width"
         android:layout_height="@dimen/land_map_click_height"
-        android:layout_marginLeft="@dimen/land_hospital_margin_left"
-        android:layout_marginStart="@dimen/land_hospital_margin_left"
-        android:layout_marginTop="@dimen/land_hospital_margin_top"
+        android:layout_marginLeft="@dimen/land_hospital_button_margin_left"
+        android:layout_marginTop="@dimen/land_hospital_button_margin_top"
         android:alpha="0.00"
-        android:text="@string/hospital"
-        />
+        android:text="@string/hospital" />
 
     <Button
         android:id="@id/SchoolButton"
         android:layout_width="@dimen/land_map_click_width"
         android:layout_height="@dimen/land_map_click_height"
-        android:layout_marginLeft="@dimen/land_school_margin_left"
-        android:layout_marginStart="@dimen/land_school_margin_left"
-        android:layout_marginTop="@dimen/land_school_margin_top"
+        android:layout_marginLeft="@dimen/land_school_button_margin_left"
+        android:layout_marginTop="@dimen/land_school_button_margin_top"
         android:alpha="0.00"
         android:text="@string/school"
         />
@@ -42,9 +36,8 @@
         android:id="@id/BoyfriendButton"
         android:layout_width="@dimen/land_map_click_width"
         android:layout_height="@dimen/land_map_click_height"
-        android:layout_marginLeft="@dimen/land_boyfriend_margin_left"
-        android:layout_marginStart="@dimen/land_boyfriend_margin_left"
-        android:layout_marginTop="@dimen/land_boyfriend_margin_top"
+        android:layout_marginLeft="@dimen/land_boyfriend_button_margin_left"
+        android:layout_marginTop="@dimen/land_boyfriend_button_margin_top"
         android:alpha="0.00"
         android:text="@string/boyfriend"
         />
