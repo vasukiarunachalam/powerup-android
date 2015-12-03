@@ -67,5 +67,6 @@
     <dimen name="redo_button_width">30dp</dimen>
     <dimen name="redo_button_height">30dp</dimen>
     <item name="map_alpha" type="dimen" format="float">0.00</item>
+    <dimen name="avatar_margin_top">50dp</dimen>
 
 </resources>
